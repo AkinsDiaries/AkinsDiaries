@@ -57,7 +57,7 @@ Here are a few things I’ve worked on or am currently developing:
 - 🧼 **Data Cleaning Report using Power Query**  
   Documented end-to-end cleaning steps in Excel Power Query for clarity, accuracy, and reproducibility.
 
-- 📊 **Sales Performance Dashboard**  
+- 📊 **Sales Performance Dashboard** ![View Project](https://github.com/AkinsDiaries/Excel-Projects/tree/main/Sales%20Performance%20Dashboard)
   Designed with Excel and Power BI to analyze salespersons productivity and performance over time across different locations and regions.
 
 ---
