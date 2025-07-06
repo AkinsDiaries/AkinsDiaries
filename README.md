@@ -20,6 +20,55 @@
 </div>
 
 ###
+# 👩‍💻 About Me
+
+Hi, I'm **Akinrinola Folashade**, a passionate and versatile individual combining the worlds of **Data Analytics**, **Entrepreneurship**, and **Farming**.
+
+My journey into data began with a simple goal: **make better decisions through data**. As a hands-on farmer and business-minded entrepreneur, I’ve come to appreciate how data can solve real-world problems, optimize processes, and uncover hidden insights.
+
+With a solid foundation in **Microsoft Excel** and **Power BI**, I'm currently expanding my skills into **Power Query**, **data cleaning**, and dashboard development for performance tracking and reporting.
+
+---
+
+# 🎯 Mission
+
+To leverage data analytics in solving practical problems in agriculture, business, and everyday life by:
+- Transforming raw data into meaningful insights
+- Building easy-to-understand visual dashboards
+- Promoting data-driven decision-making in rural and entrepreneurial settings
+
+---
+
+# 🛠️ Skills
+
+Here are the tools and techniques I currently work with:
+
+- **📊 Data Visualization:** Power BI, Excel Charts, Line & Bar Charts
+- **🧮 Data Analysis:** Pivot Tables, DAX, VLOOKUP, IF statements, Performance Metrics
+- **📂 Data Cleaning & Transformation:** Power Query Editor, Merging & Splitting Columns, Removing Duplicates
+- **📈 Reporting:** Creating dynamic dashboards, KPI tracking, Slicers, Filters, Drilldowns
+
+---
+
+# 🚧 Projects
+
+Here are a few things I’ve worked on or am currently developing:
+
+- 🧼 **Data Cleaning Report using Power Query**  
+  Documented end-to-end cleaning steps in Excel Power Query for clarity, accuracy, and reproducibility.
+
+- 🧼 **Data Cleaning Report using Power Query**  
+
+---
+
+# 📬 Call to Action
+
+🚀 I'm always learning, building, and open to collaboration!  
+If you're working on anything related to **data analytics**, **agriculture tech**, or **small business automation**, let’s connect.
+
+---
+
+
 
 <!--
 **AkinsDiaries/AkinsDiaries** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
